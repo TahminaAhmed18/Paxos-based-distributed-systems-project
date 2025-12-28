@@ -1,4 +1,4 @@
-# ⭐️ **DISTRIBUTED SYSTEMS ASSIGNMENT 3 - Paxos Based Adelaide Suburbs Council Election** ⭐️
+# ⭐️ ** Paxos Based Adelaide Suburbs Council Election** ⭐️
 
 ## 🌟 **Tahmina Ahmed - a1938593** 🌟
 
